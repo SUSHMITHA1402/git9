@@ -2,6 +2,3 @@ hello
 good 
 to
 see
-u
-new change
-verify
